@@ -50,9 +50,9 @@
 <p>
   
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>&nbsp;
+
 <!--   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp;&nbsp; -->
 <!--   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp;&nbsp; -->
 <!--   <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>&nbsp;&nbsp; -->
@@ -63,14 +63,14 @@
 </p>
 
 <p>
- 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/ >&nbsp;
   <img src="https://img.shields.io/badge/Node.js-c2c5c5?style=flat&logo=Node.js&logoColor=339933"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MySQL-f1d8d9?style=flat&logo=MySQL&logoColor=4479A1"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-yellow?style=flat&logo=Bootstrap&logoColor=7952B3"/>
+<!--   <img src="https://img.shields.io/badge/Bootstrap-yellow?style=flat&logo=Bootstrap&logoColor=7952B3"/> -->
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;
+<!--   <img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp; -->
   <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp;
