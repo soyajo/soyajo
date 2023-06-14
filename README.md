@@ -62,12 +62,12 @@
 <!--   <img src="https://img.shields.io/badge/Redux-pink?style=flat&logo=Redux&logoColor=764ABC"/> -->
 </p>
 
-<p>
+<!-- <p>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/ >&nbsp;
   <img src="https://img.shields.io/badge/Node.js-c2c5c5?style=flat&logo=Node.js&logoColor=339933"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MySQL-f1d8d9?style=flat&logo=MySQL&logoColor=4479A1"/>&nbsp;&nbsp;
 <!--   <img src="https://img.shields.io/badge/Bootstrap-yellow?style=flat&logo=Bootstrap&logoColor=7952B3"/> -->
-</p>
+</p> -->
 
 <p>
 <!--   <img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp; -->
